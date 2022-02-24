@@ -277,5 +277,3 @@ DISPLAY_2:                 ; si es la combinación 10 se enciende el display 2
     BCF banderas, 1
     RETURN
 END
-
-
